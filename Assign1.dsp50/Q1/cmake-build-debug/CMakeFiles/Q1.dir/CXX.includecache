@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/spela/Desktop/DATASTRUCTS/Assign1.dsp50/Q1/main.cpp
+iostream
+-
+string
+-
+myStack.h
+C:/Users/spela/Desktop/DATASTRUCTS/Assign1.dsp50/Q1/myStack.h
+stdio.h
+-
+ctype.h
+-
+climits
+-
+
+C:/Users/spela/Desktop/DATASTRUCTS/Assign1.dsp50/Q1/myStack.h
+iostream
+-
+

@@ -1,0 +1,5 @@
+C:/Users/spela/Desktop/DATASTRUCTS/Assign2.dsp50/cmake-build-debug/CMakeFiles/a2_hanoi.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign2.dsp50/cmake-build-debug/CMakeFiles/a2_improved.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign2.dsp50/cmake-build-debug/CMakeFiles/a2_pow.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign2.dsp50/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign2.dsp50/cmake-build-debug/CMakeFiles/rebuild_cache.dir

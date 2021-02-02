@@ -1,0 +1,4 @@
+C:/Users/spela/Desktop/DATASTRUCTS/Assign3.dsp50/cmake-build-debug/CMakeFiles/a3_Merge.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign3.dsp50/cmake-build-debug/CMakeFiles/a3_quick.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign3.dsp50/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign3.dsp50/cmake-build-debug/CMakeFiles/rebuild_cache.dir

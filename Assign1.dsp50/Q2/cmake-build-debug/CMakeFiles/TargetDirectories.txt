@@ -1,0 +1,3 @@
+C:/Users/spela/Desktop/DATASTRUCTS/Assign1.dsp50/Q2/cmake-build-debug/CMakeFiles/Q2.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign1.dsp50/Q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign1.dsp50/Q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

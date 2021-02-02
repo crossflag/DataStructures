@@ -1,0 +1,3 @@
+C:/Users/spela/Desktop/DATASTRUCTS/Assign5.dsp50/cmake-build-debug/CMakeFiles/Assign5_dsp50.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign5.dsp50/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/spela/Desktop/DATASTRUCTS/Assign5.dsp50/cmake-build-debug/CMakeFiles/rebuild_cache.dir
